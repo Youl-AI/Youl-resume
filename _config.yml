@@ -23,7 +23,7 @@ resume_contact_address:         "03722 서울특별시 서대문구 연세로 50
 resume_header_contact_info:     "03722 서울특별시 서대문구 연세로 50 연세대학교 • 010-7469-1727 • hayoul1999@yonsei.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hi, I'm student of Yonsei University, Computer Science. I have interested in AI deep learning. I worked in Soft computing lab in Yonsei University and I studied about Computer vision, Domain knowledge, Data clustering, Data analysis, Data visualization.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,9 +45,9 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  # resume_facebook_url:          "insert Facebook URL here"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_github_url:            "https://github.com/Youl-AI"
+  resume_facebook_url:          "https://www.facebook.com/kimhayoul"
+  resume_instagram_url:         "https://www.instagram.com/hayoul_kim/"
 resume_print_social_links:      true
 
 # Design settings
