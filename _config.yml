@@ -23,7 +23,7 @@ resume_contact_address:         "03722 서울특별시 서대문구 연세로 50
 resume_header_contact_info:     "03722 서울특별시 서대문구 연세로 50 연세대학교 • 010-7469-1727 • hayoul1999@yonsei.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, I'm student of Yonsei University, Computer Science. I have interested in AI deep learning. I worked in Soft computing lab in Yonsei University and I studied about Computer vision, Domain knowledge, Data clustering, Data analysis, Data visualization.</p>"
+resume_header_intro: "<p>Hi, I'm student of Yonsei University, Computer Science.<br>I have interested in AI deep learning.<br>I worked in Soft computing lab in Yonsei University.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,7 +40,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
