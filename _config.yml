@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hayoul Kim"
-resume_title:                   "Student of Yonsei University Compuser Science"
+resume_title:                   "Student of Yonsei University Computer Science"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "hayoul1999@yonsei.ac.kr.com"
